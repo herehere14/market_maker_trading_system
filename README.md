@@ -42,6 +42,3 @@ A minute-level model training & evaluation pipeline with:
 ### 4) `medium_frequency_trading_system.ipynb`
 Notebook version / experiments (large). :contentReference[oaicite:4]{index=4}
 
----
-
-## Repo structure
